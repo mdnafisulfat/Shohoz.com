@@ -6,7 +6,7 @@ This repository contains automation scripts for the "Park" feature on Shohoz.com
 
 # Link to the Feature
 
-Park Feature
+Park Feature (beta version)
 
 # Features Automated
 
